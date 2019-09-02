@@ -10,4 +10,3 @@ nested_students.each { |a|
   a.each { |b|
     puts b  }
 }
-
